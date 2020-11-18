@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\FinanceCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\FinanceCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\FinanceCalculator.csproj",
+        "projectName": "FinanceCalculator",
+        "projectPath": "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\FinanceCalculator.csproj",
+        "packagesPath": "C:\\Users\\250647\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\250647\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://carmax.jfrog.io/carmax/api/nuget/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "FinanceCalculator.dll": {
+    "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\Calculator.cs": {
+      "FinanceCalculator.Calculator": {
+        "System.String FinanceCalculator.Calculator::GetOrderCategory(System.Double)": {
+          "Lines": {
+            "8": 3,
+            "9": 3,
+            "10": 3,
+            "11": 1,
+            "12": 3,
+            "13": 2,
+            "14": 3,
+            "15": 3
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 10,
+              "Offset": 21,
+              "EndOffset": 29,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 12,
+              "Offset": 46,
+              "EndOffset": 48,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 12,
+              "Offset": 46,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Int32 FinanceCalculator.Calculator::AddNumbers(System.Int32,System.Int32)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

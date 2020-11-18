@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQWhpUym1IQgks1T3lQ4l1dp0q9P60Bbqk2Av1detLj6WEro5Xu0YCFTcyhxiotPC0fwThxkdA+3k7vhomH94Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\250647\\source\\repos\\FinanceCalculator\\FinanceCalculator\\FinanceCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\250647\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

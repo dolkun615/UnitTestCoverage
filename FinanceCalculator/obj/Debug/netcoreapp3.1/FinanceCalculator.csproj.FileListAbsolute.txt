@@ -1,0 +1,9 @@
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\bin\Debug\netcoreapp3.1\FinanceCalculator.deps.json
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\bin\Debug\netcoreapp3.1\FinanceCalculator.dll
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\bin\Debug\netcoreapp3.1\FinanceCalculator.pdb
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.AssemblyInfoInputs.cache
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.AssemblyInfo.cs
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.dll
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.pdb
+C:\Users\250647\source\repos\FinanceCalculator\FinanceCalculator\obj\Debug\netcoreapp3.1\FinanceCalculator.csprojAssemblyReference.cache
