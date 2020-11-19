@@ -26,8 +26,8 @@ steps:
   inputs:
     command: 'test'
     projects: '**/*/*.csproj'
-    arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=./MyCoverage/ --collect "Code Coverage"'
-    publishTestResults: true
+    arguments: '--configuration $(BuildConfiguration) --collect "XPlat Code coverage" -- RunConfiguration.DisableAppDomain=true'
+    testRunTitle: MyProject.UnitTests 
 
 - task: PublishCodeCoverageResults@1
   displayName: 'Publish Code Coverage Results'
