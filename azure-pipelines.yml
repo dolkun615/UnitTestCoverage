@@ -26,7 +26,7 @@ steps:
   inputs:
     command: 'test'
     projects: '**/*/*.csproj'
-    arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=./MyCoverage/'
+    arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=cobertura /p:CoverletOutput=./MyCoverage/ --collect "Code Coverage"'
     publishTestResults: true
 
 - task: PublishCodeCoverageResults@1
